@@ -17,7 +17,7 @@
 
 ### Мои проекты:
 
-- [Веб-сервер, который реализует функциональность простейшего планировщика задач](https://github.com/L0Qqi/To-Do_list/tree/master)
+- [Веб-сервер, который реализует функциональность планировщика задач](https://github.com/L0Qqi/To-Do_list/tree/master)
 
  📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/loqi_i) 
 
