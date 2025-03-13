@@ -11,11 +11,15 @@
   <img src="https://komarev.com/ghpvc/?username=L0Qqi&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :man_technologist: About Me :
+### :man_technologist: Обо мне :
 
-Hi! My name is Radmir. I am a Backend Developer from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Привет! Меня зовут Радмир. Я Backend Developer из Казани <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/loqi_i) 
+### Мои проекты:
+
+- [Веб-сервер, который реализует функциональность простейшего планировщика задач](https://github.com/L0Qqi/To-Do_list/tree/master)
+
+ 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/loqi_i) 
 
 ---
 
